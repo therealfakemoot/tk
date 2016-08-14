@@ -1,1 +1,15 @@
 A toolkit targeting RedHat/Debian/etc ecosystems to perform menial tasks
+
+
+#### perm
+
+Set the permissions of a target file/folder based on defined rulesets
+
+* Focus on compatibility of Unix/Linux users
+  * This should be built-in as the default ruleset that is overridden by secondary rulesets
+* Secondary rulesets
+  * Apache (PHP, Python, Ruby)
+  * cPanel/WHM
+* Allow importing user-defined rulesets
+  * Allows limiting the scope of what is required for direct inclusion
+
