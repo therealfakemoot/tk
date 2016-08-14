@@ -1,6 +1,3 @@
-A toolkit targeting RedHat/Debian/etc ecosystems to perform menial tasks
-
-
 #### perm
 
 Set the permissions of a target file/folder based on defined rulesets
